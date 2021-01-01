@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("max",["Attribute"],[["maxCrew",,[["ShipDef",,,,0,"File:LuaShipDef.cpp.lua:ShipDef.maxCrew","LuaClass:ShipDef:maxCrew"]]],["maxHyperspaceRange",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.maxHyperspaceRange","LuaClass:Ship:maxHyperspaceRange"]]]]);

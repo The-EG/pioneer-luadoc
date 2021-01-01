@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("qui",["Function"],[["Quit",,[["Engine",,,,0,"File:LuaEngine.cpp.lua:Engine.Quit","LuaClass:Engine:Quit"]]]]);

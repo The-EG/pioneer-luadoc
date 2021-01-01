@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("hor",["Constant"],[["HORIZONTAL",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.HORIZONTAL","LuaClass:Constants:HORIZONTAL"]]]]);

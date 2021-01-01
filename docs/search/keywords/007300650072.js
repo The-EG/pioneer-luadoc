@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ser",["Interface"],[["ServerAgent",,[[,,,,0,"File:LuaServerAgent.cpp.lua:ServerAgent","LuaClass:ServerAgent"]]]]);

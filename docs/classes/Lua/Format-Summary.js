@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("LuaClass:Format","Format");NDSummary.OnSummaryLoaded("LuaClass:Format",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[605,0,2,"Format"],[606,0,1,"Functions","Functions"],[607,0,0,"Date","Date"],[608,0,0,"Distance","Distance"],[609,0,0,"Money","Money"]]);

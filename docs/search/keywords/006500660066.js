@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("eff",["Attribute"],[["effectiveExhaustVelocity",,[["ShipDef",,,,0,"File:LuaShipDef.cpp.lua:ShipDef.effectiveExhaustVelocity","LuaClass:ShipDef:effectiveExhaustVelocity"]]]]);

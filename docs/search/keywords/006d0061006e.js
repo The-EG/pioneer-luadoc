@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("man",["Attribute"],[["manufacturer",,[["ShipDef",,,,0,"File:LuaShipDef.cpp.lua:ShipDef.manufacturer","LuaClass:ShipDef:manufacturer"]]]]);

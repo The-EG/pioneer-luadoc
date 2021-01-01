@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("eco",["Attribute"],[["econDescription",,[["StarSystem",,,,0,"File:LuaStarSystem.cpp.lua:StarSystem.econDescription","LuaClass:StarSystem:econDescription"]]]]);

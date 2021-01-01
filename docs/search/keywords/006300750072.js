@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cur",["Constant","Function"],[["CURRENT_SYSTEM",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.CURRENT_SYSTEM","LuaClass:Constants:CURRENT_SYSTEM"]]],["CurrentView",,[["Game",,,,1,"File:LuaGame.cpp.lua:Game.CurrentView","LuaClass:Game:CurrentView"]]]]);

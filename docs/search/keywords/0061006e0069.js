@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ani",["Constant"],[["ANIMAL_MEAT",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.ANIMAL_MEAT","LuaClass:Constants:ANIMAL_MEAT"]]]]);

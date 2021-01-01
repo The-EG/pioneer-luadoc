@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("fou",["Attribute"],[["foundingDate",,[["Faction",,,,0,"File:LuaFaction.cpp.lua:Faction.foundingDate","LuaClass:Faction:foundingDate"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("pau",["Attribute"],[["paused",,[["Game",,,,0,"File:LuaGame.cpp.lua:Game.paused","LuaClass:Game:paused"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("spe",["Function"],[["Speed",,[["pigui.Format",,,,0,"File2:libs/text.lua:pigui.Format.Speed","LuaClass:pigui:Format.Speed"]]]]);

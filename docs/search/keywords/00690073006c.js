@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("isl",["Function"],[["IsLanded",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.IsLanded","LuaClass:Ship:IsLanded"]]]]);

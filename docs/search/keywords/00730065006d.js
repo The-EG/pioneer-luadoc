@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sem",["Attribute"],[["semiMajorAxis",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.semiMajorAxis","LuaClass:SystemBody:semiMajorAxis"]]]]);

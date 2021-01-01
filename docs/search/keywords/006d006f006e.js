@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("mon",["Function"],[["Money",,[["Format",,,,0,"File:LuaFormat.cpp.lua:Format.Money","LuaClass:Format:Money"],["pigui.Format",,,,0,"File2:libs/text.lua:pigui.Format.Money","LuaClass:pigui:Format.Money"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("lau",["Function"],[["LaunchPolice",,[["SpaceStation",,,,0,"File3:SpaceStation.lua:SpaceStation.LaunchPolice","LuaClass:SpaceStation:LaunchPolice"]]]]);

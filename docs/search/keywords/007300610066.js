@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("saf",["Function","Constant"],[["SafeRoll",,[["Character",,,,0,"File3:Character.lua:Character.SafeRoll","LuaClass:Character:SafeRoll"]]],["SAFETY_LOCKOUT",,[["Constants",,,,1,"File:LuaConstants.cpp.lua:Constants.SAFETY_LOCKOUT","LuaClass:Constants:SAFETY_LOCKOUT"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("del",["Function"],[["DeleteCustomEntry",,[["FlightLog",,,,0,"File3:FlightLog.lua:FlightLog.DeleteCustomEntry","LuaClass:FlightLog:DeleteCustomEntry"]]]]);

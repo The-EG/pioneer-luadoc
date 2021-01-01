@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("orb",["Constant","Attribute"],[["ORBIT_IMPOSSIBLE",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.ORBIT_IMPOSSIBLE","LuaClass:Constants:ORBIT_IMPOSSIBLE"]]],["orbitPeriod",,[["SystemBody",,,,1,"File:LuaSystemBody.cpp.lua:SystemBody.orbitPeriod","LuaClass:SystemBody:orbitPeriod"]]]]);

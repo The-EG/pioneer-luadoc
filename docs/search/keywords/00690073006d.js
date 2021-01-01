@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ism",["Function"],[["IsMouseActive",,[["Player",,,,0,"File:LuaPlayer.cpp.lua:Player.IsMouseActive","LuaClass:Player:IsMouseActive"]]],["isMouseHoveringWindow",,[["pigui",,,,0,"File2:libs/wrappers.lua:pigui.isMouseHoveringWindow","LuaClass:pigui:isMouseHoveringWindow"]]]]);

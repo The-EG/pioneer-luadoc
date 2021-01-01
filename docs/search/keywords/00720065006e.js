@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ren",["Function"],[["render",,[["ChatForm",,,,0,"File2:libs/chat-form.lua:ChatForm.render","LuaClass:ChatForm:render"]]]]);

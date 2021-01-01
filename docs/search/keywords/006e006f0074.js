@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("not",["Attribute"],[["notoriety",,[["Character",,,,0,"File3:Character.lua:Character.notoriety","LuaClass:Character:notoriety"]]]]);

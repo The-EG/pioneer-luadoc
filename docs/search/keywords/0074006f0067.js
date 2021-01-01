@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("tog",["Function"],[["ToggleRotationDamping",,[["Player",,,,0,"File:LuaPlayer.cpp.lua:Player.ToggleRotationDamping","LuaClass:Player:ToggleRotationDamping"]]],["ToggleWheelState",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.ToggleWheelState","LuaClass:Ship:ToggleWheelState"]]]]);

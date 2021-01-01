@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("res",["Function"],[["rescaleUI",,[["pigui",,,,0,"File2:libs/wrappers.lua:pigui.rescaleUI","LuaClass:pigui:rescaleUI"]]]]);

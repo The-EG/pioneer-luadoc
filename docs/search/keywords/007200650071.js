@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("req",["Function"],[["RequestDockingClearance",,[["SpaceStation",,,,0,"File:LuaSpaceStation.cpp.lua:SpaceStation.RequestDockingClearance","LuaClass:SpaceStation:RequestDockingClearance"]]]]);

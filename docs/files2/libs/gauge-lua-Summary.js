@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("File2:libs/gauge.lua","gauge.lua");NDSummary.OnSummaryLoaded("File2:libs/gauge.lua",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[254,0,0,"pigui","pigui"],[255,0,2,"Gauges","pigui.Gauges"],[256,0,1,"gauge","pigui.gauge"]]);

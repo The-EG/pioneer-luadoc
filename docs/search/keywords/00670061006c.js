@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("gal",["Function"],[["GalaxyStats",,[[,,,,0,"File:LuaDev.cpp.lua:GalaxyStats"]]]]);

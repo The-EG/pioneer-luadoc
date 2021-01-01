@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("tar",["Constant"],[["target_scanner",,[[,,,,0,"File3:Equipment.lua:target_scanner"]]]]);

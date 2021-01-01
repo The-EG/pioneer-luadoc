@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("onc",["Event"],[["onCargoUnload",,[["Event",,,,0,"File3:Event.lua:Event.onCargoUnload","LuaClass:Event:onCargoUnload"]]],["onCreateBB",,[["Event",,,,0,"File3:Event.lua:Event.onCreateBB","LuaClass:Event:onCreateBB"]]]]);

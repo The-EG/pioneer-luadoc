@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("LuaClass:Star","Star");NDSummary.OnSummaryLoaded("LuaClass:Star",[["Lua","Lua"]],[["Classes","Class"]],[[302,0,0,"Star"]]);

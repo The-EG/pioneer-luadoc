@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cir",["Function"],[["circleSegments",,[["pigui",,,,0,"File2:baseui.lua:pigui.circleSegments","LuaClass:pigui:circleSegments"]]]]);

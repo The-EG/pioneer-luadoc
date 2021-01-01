@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("nav",["Attribute"],[["navigation",,[["Character",,,,0,"File3:Character.lua:Character.navigation","LuaClass:Character:navigation"]]]]);

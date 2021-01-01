@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sen",["Attribute"],[["sensors",,[["Character",,,,0,"File3:Character.lua:Character.sensors","LuaClass:Character:sensors"]]]]);

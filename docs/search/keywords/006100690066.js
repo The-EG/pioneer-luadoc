@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("aif",["Function"],[["AIFlyTo",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.AIFlyTo","LuaClass:Ship:AIFlyTo"]]]]);

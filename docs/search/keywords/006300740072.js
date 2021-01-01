@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ctr",["Function"],[["ctrlHeld",,[["pigui",,,,0,"File2:libs/wrappers.lua:pigui.ctrlHeld","LuaClass:pigui:ctrlHeld"]]]]);

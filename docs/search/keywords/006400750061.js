@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("dua",["Constant"],[["DualLaserOrientation",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.DualLaserOrientation","LuaClass:Constants:DualLaserOrientation"]]]]);

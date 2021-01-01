@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sco",["Constant"],[["scoop",,[[,,,,0,"File3:Equipment.lua:scoop"]]]]);

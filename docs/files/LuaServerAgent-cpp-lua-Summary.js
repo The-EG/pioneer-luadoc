@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("File:LuaServerAgent.cpp.lua","LuaServerAgent.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaServerAgent.cpp.lua",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[407,0,2,"ServerAgent","ServerAgent"],[408,0,1,"Functions","ServerAgent.Functions"],[409,0,0,"Call","ServerAgent.Call"]]);

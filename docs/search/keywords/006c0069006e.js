@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("lin",["Attribute"],[["linearThrust",,[["ShipDef",,,,0,"File:LuaShipDef.cpp.lua:ShipDef.linearThrust","LuaClass:ShipDef:linearThrust"]]]]);

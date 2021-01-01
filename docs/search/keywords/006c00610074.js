@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("lat",["Function"],[["Latitude",,[["pigui.Format",,,,0,"File2:libs/text.lua:pigui.Format.Latitude","LuaClass:pigui:Format.Latitude"]]]]);

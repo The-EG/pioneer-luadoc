@@ -1,1 +1,0 @@
-﻿NDContentPage.OnToolTipsLoaded({90:"<div class=\"NDToolTip TClass LLua\"><div class=\"TTSummary\">A container for a ship\'s equipment.</div></div>"});

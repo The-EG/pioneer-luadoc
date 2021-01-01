@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("dri",["Constant"],[["DRIVE_ACTIVE",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.DRIVE_ACTIVE","LuaClass:Constants:DRIVE_ACTIVE"]]]]);

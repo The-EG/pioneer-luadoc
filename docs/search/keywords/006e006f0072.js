@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("nor",["Function"],[["Normal",,[["Rand",,,,0,"File:LuaRand.cpp.lua:Rand.Normal","LuaClass:Rand:Normal"]]]]);

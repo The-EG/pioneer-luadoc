@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("LuaClass:Input","Input");NDSummary.OnSummaryLoaded("LuaClass:Input",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[560,0,2,"Input"],[561,0,1,"Functions","Functions"],[562,0,0,"GetBindingPages","GetBindingPages"]]);

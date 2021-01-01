@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("deb",["Function"],[["DebugTimer",,[["Event",,,,0,"File3:Event.lua:Event.DebugTimer","LuaClass:Event:DebugTimer"]]]]);

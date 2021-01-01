@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cle",["Function"],[["ClearCrimeFine",,[["Player",,,,0,"File3:Player.lua:Player.ClearCrimeFine","LuaClass:Player:ClearCrimeFine"]]],["ClearCrimeRecordHistory",,[["Player",,,,0,"File3:Player.lua:Player.ClearCrimeRecordHistory","LuaClass:Player:ClearCrimeRecordHistory"]]]]);

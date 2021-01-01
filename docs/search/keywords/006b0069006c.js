@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("kil",["Attribute"],[["killcount",,[["Character",,,,0,"File3:Character.lua:Character.killcount","LuaClass:Character:killcount"]]]]);

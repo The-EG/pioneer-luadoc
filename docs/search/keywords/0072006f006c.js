@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("rol",["Function"],[["RollNew",,[["Character",,,,0,"File3:Character.lua:Character.RollNew","LuaClass:Character:RollNew"]]]]);

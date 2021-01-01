@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("scr",["Function"],[["screenSize",,[["pigui",,,,0,"File2:libs/wrappers.lua:pigui.screenSize","LuaClass:pigui:screenSize"]]]]);

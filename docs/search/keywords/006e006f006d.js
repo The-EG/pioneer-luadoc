@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("nom",["Function"],[["noModifierHeld",,[["pigui",,,,0,"File2:libs/wrappers.lua:pigui.noModifierHeld","LuaClass:pigui:noModifierHeld"]]]]);

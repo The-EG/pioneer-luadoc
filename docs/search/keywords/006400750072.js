@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("dur",["Function"],[["Duration",,[["pigui.Format",,,,0,"File2:libs/text.lua:pigui.Format.Duration","LuaClass:pigui:Format.Duration"]]]]);

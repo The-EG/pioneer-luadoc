@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ind",["Attribute","Constant"],[["index",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.index","LuaClass:SystemBody:index"]]],["INDUSTRIAL_MACHINERY",,[["Constants",,,,1,"File:LuaConstants.cpp.lua:Constants.INDUSTRIAL_MACHINERY","LuaClass:Constants:INDUSTRIAL_MACHINERY"]]]]);

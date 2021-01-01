@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("fue",["Attribute"],[["fuel",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.fuel","LuaClass:Ship:fuel"]]],["fuelMassLeft",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.fuelMassLeft","LuaClass:Ship:fuelMassLeft"]]]]);

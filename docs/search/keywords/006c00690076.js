@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("liv",["Constant"],[["LIVE_ANIMALS",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.LIVE_ANIMALS","LuaClass:Constants:LIVE_ANIMALS"]]]]);

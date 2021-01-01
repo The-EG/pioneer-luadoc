@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("inp",["Interface","Function"],[["Input",,[[,,,,0,"File:LuaInput.cpp.lua:Input","LuaClass:Input"]]],["inputText",,[["pigui",,,,1,"File:LuaPiGui.cpp.lua:pigui.inputText","LuaClass:pigui:inputText"]]]]);

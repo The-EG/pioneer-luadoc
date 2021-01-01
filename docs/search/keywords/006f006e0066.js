@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("onf",["Event"],[["onFrameChanged",,[["Event",,,,0,"File3:Event.lua:Event.onFrameChanged","LuaClass:Event:onFrameChanged"]]]]);

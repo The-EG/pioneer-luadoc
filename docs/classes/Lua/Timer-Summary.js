@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("LuaClass:Timer","Timer");NDSummary.OnSummaryLoaded("LuaClass:Timer",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[274,0,0,"Timer"],[275,0,2,"Functions","Functions"],[276,0,1,"CallAt","CallAt"],[277,0,1,"CallEvery","CallEvery"]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("mak",["Function"],[["MakeCustomEntry",,[["FlightLog",,,,0,"File3:FlightLog.lua:FlightLog.MakeCustomEntry","LuaClass:FlightLog:MakeCustomEntry"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sli",["Function"],[["sliderFloat",,[["pigui",,,,0,"File:LuaPiGui.cpp.lua:pigui.sliderFloat","LuaClass:pigui:sliderFloat"]]],["sliderInt",,[["pigui",,,,0,"File:LuaPiGui.cpp.lua:pigui.sliderInt","LuaClass:pigui:sliderInt"]]]]);

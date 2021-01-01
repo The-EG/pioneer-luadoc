@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("soc",["Constant"],[["SOCDEM",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.SOCDEM","LuaClass:Constants:SOCDEM"]]]]);

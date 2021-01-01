@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("File:LuaStar.cpp.lua","LuaStar.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaStar.cpp.lua",[["Lua","Lua"]],[["Classes","Class"]],[[302,0,0,"Star","Star"]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sav",["Function"],[["Save",,[["Character",,,,0,"File3:Character.lua:Character.Save","LuaClass:Character:Save"]]],["SaveGame",,[["Game",,,,0,"File:LuaGame.cpp.lua:Game.SaveGame","LuaClass:Game:SaveGame"]]],["SaveGameStats",,[["Game",,,,0,"File:LuaGame.cpp.lua:Game.SaveGameStats","LuaClass:Game:SaveGameStats"]]]]);

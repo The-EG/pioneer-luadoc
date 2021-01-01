@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("pir",["Constant"],[["PIRACY",,[["Legal",,,,0,"File3:Legal.lua:Legal.PIRACY","LuaClass:Legal:PIRACY"]]]]);

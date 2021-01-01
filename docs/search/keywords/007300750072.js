@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sur",["Function"],[["Surname",,[["NameGen",,,,0,"File3:NameGen.lua:NameGen.Surname","LuaClass:NameGen:Surname"]]]]);

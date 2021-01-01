@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("luc",["Attribute"],[["luck",,[["Character",,,,0,"File3:Character.lua:Character.luck","LuaClass:Character:luck"]]]]);

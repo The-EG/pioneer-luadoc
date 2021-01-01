@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("che",["Function"],[["CheckOut",,[["Character",,,,0,"File3:Character.lua:Character.CheckOut","LuaClass:Character:CheckOut"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cri",["Constant"],[["CrimeType",,[["Legal",,,,0,"File3:Legal.lua:Legal.CrimeType","LuaClass:Legal:CrimeType"]]]]);

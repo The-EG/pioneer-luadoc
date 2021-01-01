@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("lef",["Constant"],[["left",,[["pigui.anchor",,,,0,"File2:baseui.lua:pigui.anchor.left","LuaClass:pigui:left"],["Constants","LEFT",,,0,"File:LuaConstants.cpp.lua:Constants.LEFT","LuaClass:Constants:LEFT"]]]]);

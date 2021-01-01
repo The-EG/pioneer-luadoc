@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("wea",["Constant"],[["WEAPONS_DISCHARGE",,[["Legal",,,,0,"File3:Legal.lua:Legal.WEAPONS_DISCHARGE","LuaClass:Legal:WEAPONS_DISCHARGE"]]]]);

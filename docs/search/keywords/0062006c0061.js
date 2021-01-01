@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("bla",["Function"],[["BlastOff",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.BlastOff","LuaClass:Ship:BlastOff"]]]]);

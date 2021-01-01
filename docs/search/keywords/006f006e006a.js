@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("onj",["Event"],[["onJettison",,[["Event",,,,0,"File3:Event.lua:Event.onJettison","LuaClass:Event:onJettison"]]]]);

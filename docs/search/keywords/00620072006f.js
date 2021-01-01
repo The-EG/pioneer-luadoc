@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("bro",["Constant"],[["BROWN_DWARF",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.BROWN_DWARF","LuaClass:Constants:BROWN_DWARF"]]]]);

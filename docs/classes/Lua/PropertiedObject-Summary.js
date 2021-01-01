@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("LuaClass:PropertiedObject","PropertiedObject");NDSummary.OnSummaryLoaded("LuaClass:PropertiedObject",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[410,0,0,"PropertiedObject"],[411,0,2,"Methods","Methods"],[412,0,1,"Connect","Connect"]]);

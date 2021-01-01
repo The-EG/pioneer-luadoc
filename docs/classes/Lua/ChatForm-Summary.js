@@ -1,1 +1,0 @@
-﻿NDFramePage.OnPageTitleLoaded("LuaClass:ChatForm","ChatForm");NDSummary.OnSummaryLoaded("LuaClass:ChatForm",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[259,0,0,"ChatForm"],[260,0,2,"Functions","Functions"],[261,0,1,"New","New"],[262,0,1,"render","render"],[263,0,1,"SetTitle","SetTitle"],[264,0,1,"SetFace","SetFace"]]);

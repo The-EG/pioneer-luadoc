@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sup",["Attribute"],[["superType",,[["Body",,,,0,"File:LuaBody.cpp.lua:Body.superType","LuaClass:Body:superType"],["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.superType","LuaClass:SystemBody:superType"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("han",["Constant"],[["HAND_WEAPONS",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.HAND_WEAPONS","LuaClass:Constants:HAND_WEAPONS"]]]]);

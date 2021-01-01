@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("bat",["Constant"],[["BATTLE_WEAPONS",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.BATTLE_WEAPONS","LuaClass:Constants:BATTLE_WEAPONS"]]]]);

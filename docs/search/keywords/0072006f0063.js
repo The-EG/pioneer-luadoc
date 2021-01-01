@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("roc",["Constant"],[["ROCKY_PLANET",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.ROCKY_PLANET","LuaClass:Constants:ROCKY_PLANET"]]]]);

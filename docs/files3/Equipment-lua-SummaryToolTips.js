@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("File3:Equipment.lua",{100:"<div class=\"NDToolTip TConstant LLua\"><div class=\"TTSummary\">Equipment slots. Every equipment or cargo type has a corresponding &quot;slot&quot; that it fits in to. Each slot has an independent capacity.</div></div>"});

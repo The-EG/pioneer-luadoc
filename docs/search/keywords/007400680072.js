@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("thr",["Attribute"],[["thrusterFuelUse",,[["ShipDef",,,,0,"File:LuaShipDef.cpp.lua:ShipDef.thrusterFuelUse","LuaClass:ShipDef:thrusterFuelUse"]]]]);

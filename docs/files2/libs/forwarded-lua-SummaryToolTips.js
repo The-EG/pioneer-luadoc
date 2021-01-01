@@ -1,1 +1,0 @@
-﻿NDSummary.OnToolTipsLoaded("File2:libs/forwarded.lua",{258:"<div class=\"NDToolTip TFunction LLua\"><div id=\"NDPrototype258\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">ui.incrementDrag = pigui.IncrementDrag</div></div><div class=\"TTSummary\">ui.incrementDrag(label, value, v_min, v_max, format)</div></div>"});

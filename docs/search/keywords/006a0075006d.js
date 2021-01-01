@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("jum",["Constant"],[["JUMPING",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.JUMPING","LuaClass:Constants:JUMPING"]]]]);

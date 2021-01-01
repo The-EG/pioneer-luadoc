@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("fac",["Class","Attribute"],[["Faction",,[[,,,,0,"File:LuaFaction.cpp.lua:Faction","LuaClass:Faction"],["StarSystem","faction",,,1,"File:LuaStarSystem.cpp.lua:StarSystem.faction","LuaClass:StarSystem:faction"]]]]);

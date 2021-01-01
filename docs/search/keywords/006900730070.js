@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("isp",["Function"],[["IsPlayer",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.IsPlayer","LuaClass:Ship:IsPlayer"]]],["IsPlaying",,[["Music",,,,0,"File:LuaMusic.cpp.lua:Music.IsPlaying","LuaClass:Music:IsPlaying"]]]]);

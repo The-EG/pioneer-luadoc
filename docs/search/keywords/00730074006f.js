@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sto",["Function"],[["Stop",,[["Music",,,,0,"File:LuaMusic.cpp.lua:Music.Stop","LuaClass:Music:Stop"]]],["StopSensor",,[["Ship",,,,0,"File3:Ship.lua:Ship.StopSensor","LuaClass:Ship:StopSensor"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("plu",["Constant"],[["PLUTOCRATIC",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.PLUTOCRATIC","LuaClass:Constants:PLUTOCRATIC"]]]]);

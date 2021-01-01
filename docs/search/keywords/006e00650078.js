@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("nex",["Function"],[["nextColumn",,[["pigui",,,,0,"File:LuaPiGui.cpp.lua:pigui.nextColumn","LuaClass:pigui:nextColumn"]]]]);

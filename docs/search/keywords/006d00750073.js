@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("mus",["Class"],[["Music",,[[,,,,0,"File:LuaMusic.cpp.lua:Music","LuaClass:Music"]]]]);

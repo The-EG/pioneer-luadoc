@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("exi",["Function"],[["exists",,[["Object",,,,0,"File:LuaObject.cpp.lua:Object.exists","LuaClass:Object:exists"]]]]);

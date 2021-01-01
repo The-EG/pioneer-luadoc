@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ava",["Attribute"],[["available",,[["Character",,,,0,"File3:Character.lua:Character.available","LuaClass:Character:available"]]]]);

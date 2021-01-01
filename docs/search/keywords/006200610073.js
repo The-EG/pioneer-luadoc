@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("bas",["Constant","Attribute"],[["baseline",,[["pigui.anchor",,,,0,"File2:baseui.lua:pigui.anchor.baseline","LuaClass:pigui:baseline"]]],["basePrice",,[["ShipDef",,,,1,"File:LuaShipDef.cpp.lua:ShipDef.basePrice","LuaClass:ShipDef:basePrice"]]]]);

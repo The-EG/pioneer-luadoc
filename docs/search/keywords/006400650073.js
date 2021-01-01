@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("des",["Attribute"],[["description",,[["Faction",,,,0,"File:LuaFaction.cpp.lua:Faction.description","LuaClass:Faction:description"]]],["descriptionShort",,[["Faction",,,,0,"File:LuaFaction.cpp.lua:Faction.descriptionShort","LuaClass:Faction:descriptionShort"]]]]);
