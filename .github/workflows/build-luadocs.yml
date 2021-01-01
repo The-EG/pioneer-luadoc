@@ -37,7 +37,7 @@ jobs:
       run: |
         mkdir gen
         /bin/bash pioneer/scripts/gen_cpp_lua.sh
-        ls gen
+        cat gen/LuaConstants.cpp.lua
        
         
     - name: Generate Lua Documentation
