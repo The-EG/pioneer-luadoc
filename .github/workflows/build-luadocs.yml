@@ -5,7 +5,6 @@ on:
     branches:
     - master
     
-
 jobs:
   build-lua-docs:
     runs-on: ubuntu-20.04
@@ -15,7 +14,13 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref: master
+        submodules: true
         fetch-depth: 0
+        
+    - name: Setup git identify
+      run: |
+        git config --local user.name "Commander Jameson"
+        git config --local user.email "CmdrJameson@pioneerspacesim.net"
         
     - name: Rebase gh-pages to master
       run: |
@@ -31,17 +36,17 @@ jobs:
     - name: Generate Lua comments for C++ modules
       run: |
         mkdir gen
-        pioneer/scripts/gen_cpp_lua.sh
+        /bin/bash pioneer/scripts/gen_cpp_lua.sh
         
-    - name: Generate Lau Documentation
+    - name: Generate Lua Documentation
       run: |
         mkdir -p docs/lua
-        mono NaturalDocs/NaturalDocs.exe pioneer/nd -i gen -i pioneer/data/pigui -i pioneer/data/libs -o html docs/lua
+        mono NaturalDocs/NaturalDocs.exe pioneer/nd -i gen/ -i pioneer/data/pigui -i pioneer/data/libs -o html docs/lua
         
     - name: Commit and push changes
       run: |
         git add docs
-        git commit -m "Update Lua Documentation"
-        git push -u origin gh-pages
+        git commit --amend -m "Update Lua Documentation"
+        git push -f -u origin gh-pages
         
  
