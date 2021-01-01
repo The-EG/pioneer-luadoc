@@ -1,0 +1,4 @@
+[submodule "pioneer"]
+	path = pioneer
+	url = https://github.com/The-EG/pioneer.git
+	branch = luadoc
