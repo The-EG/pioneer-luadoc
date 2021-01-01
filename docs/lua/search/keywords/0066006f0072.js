@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("for",["Interface","Constant"],[["Format",,[[,,,,0,"File:LuaFormat.cpp.lua:Format","LuaClass:Format"]]],["FORWARD",,[["Constants",,,,1,"File:LuaConstants.cpp.lua:Constants.FORWARD","LuaClass:Constants:FORWARD"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:LuaUtils.cpp.lua","LuaUtils.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaUtils.cpp.lua",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[338,0,2,"util","util"],[339,0,1,"Functions","util.Functions"],[340,0,0,"hash_random","util.hash_random"],[341,0,0,"trim","util.trim"]]);

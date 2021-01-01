@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("apo",["Attribute"],[["apoapsis",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.apoapsis","LuaClass:SystemBody:apoapsis"]]]]);

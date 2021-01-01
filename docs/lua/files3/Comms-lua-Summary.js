@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File3:Comms.lua","Comms.lua");NDSummary.OnSummaryLoaded("File3:Comms.lua",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[37,0,2,"Comms","Comms"],[38,0,1,"Functions","Comms.Functions"],[39,0,0,"Message","Comms.Message"],[40,0,0,"ImportantMessage","Comms.ImportantMessage"]]);

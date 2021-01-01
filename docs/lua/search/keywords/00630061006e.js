@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("can",["Function"],[["CancelAI",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.CancelAI","LuaClass:Ship:CancelAI"]]],["CanLoadGame",,[["Game",,,,0,"File:LuaGame.cpp.lua:Game.CanLoadGame","LuaClass:Game:CanLoadGame"]]]]);

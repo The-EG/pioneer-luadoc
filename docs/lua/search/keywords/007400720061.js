@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tra",["Constant"],[["trade_computer",,[[,,,,0,"File3:Equipment.lua:trade_computer"]]],["TRADING_ILLEGAL_GOODS",,[["Legal",,,,0,"File3:Legal.lua:Legal.TRADING_ILLEGAL_GOODS","LuaClass:Legal:TRADING_ILLEGAL_GOODS"]]]]);

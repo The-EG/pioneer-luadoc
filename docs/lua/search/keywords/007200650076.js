@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rev",["Constant"],[["REVERSE",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.REVERSE","LuaClass:Constants:REVERSE"]]]]);

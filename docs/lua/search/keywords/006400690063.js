@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dic",["Function"],[["DiceRoll",,[["Character",,,,0,"File3:Character.lua:Character.DiceRoll","LuaClass:Character:DiceRoll"]]]]);

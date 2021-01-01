@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("whi",["Constant"],[["WHITE_DWARF",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.WHITE_DWARF","LuaClass:Constants:WHITE_DWARF"]]]]);

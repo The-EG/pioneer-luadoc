@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("LuaClass:Star",{292:"<div class=\"NDToolTip TClass LLua\"><div class=\"TTSummary\">Class representing a star. Inherits from Body.</div></div>"});

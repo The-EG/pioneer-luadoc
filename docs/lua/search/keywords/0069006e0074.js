@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("int",["Function","Attribute"],[["Integer",,[["Rand",,,,0,"File:LuaRand.cpp.lua:Rand.Integer","LuaClass:Rand:Integer"]]],["intelligence",,[["Character",,,,1,"File3:Character.lua:Character.intelligence","LuaClass:Character:intelligence"]]]]);

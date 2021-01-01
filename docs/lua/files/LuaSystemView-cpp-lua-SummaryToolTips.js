@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:LuaSystemView.cpp.lua",{406:"<div class=\"NDToolTip TFunction LLua\"><div class=\"TTSummary\">Get a table of projected point objects from the SystemView class, having previously grouped them.</div></div>"});

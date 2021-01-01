@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fli",["Class","Attribute"],[["FlightLog",,[[,,,,0,"File3:FlightLog.lua:FlightLog","LuaClass:FlightLog"]]],["flightState",,[["Ship",,,,1,"File:LuaShip.cpp.lua:Ship.flightState","LuaClass:Ship:flightState"]]]]);

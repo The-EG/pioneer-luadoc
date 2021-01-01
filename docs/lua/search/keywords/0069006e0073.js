@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ins",["Constant"],[["INSUFFICIENT_FUEL",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.INSUFFICIENT_FUEL","LuaClass:Constants:INSUFFICIENT_FUEL"]]]]);

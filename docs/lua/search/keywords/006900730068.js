@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ish",["Function"],[["IsHyperjumpAllowed",,[["Ship",,,,0,"File3:Ship.lua:Ship.IsHyperjumpAllowed","LuaClass:Ship:IsHyperjumpAllowed"]]],["IsHyperspaceActive",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.IsHyperspaceActive","LuaClass:Ship:IsHyperspaceActive"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("per",["Attribute"],[["periapsis",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.periapsis","LuaClass:SystemBody:periapsis"]]]]);

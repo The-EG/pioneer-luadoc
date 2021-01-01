@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:LuaConsole.cpp.lua","LuaConsole.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaConsole.cpp.lua",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[407,0,2,"Console","Console"],[408,0,1,"Functions","Console.Functions"],[409,0,0,"AddLine","Console.AddLine"]]);

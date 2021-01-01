@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rew",["Attribute"],[["reward",,[["Mission",,,,0,"File3:Mission.lua:Mission.reward","LuaClass:Mission:reward"]]]]);

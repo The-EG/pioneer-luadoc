@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:LuaTimer.cpp.lua","LuaTimer.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaTimer.cpp.lua",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[401,0,0,"Timer","Timer"],[402,0,2,"Functions","Timer.Functions"],[403,0,1,"CallAt","Timer.CallAt"],[404,0,1,"CallEvery","Timer.CallEvery"]]);

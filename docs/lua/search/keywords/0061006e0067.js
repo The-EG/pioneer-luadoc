@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ang",["Attribute"],[["angularThrust",,[["ShipDef",,,,0,"File:LuaShipDef.cpp.lua:ShipDef.angularThrust","LuaClass:ShipDef:angularThrust"]]]]);

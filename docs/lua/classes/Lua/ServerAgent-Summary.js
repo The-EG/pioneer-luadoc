@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:ServerAgent","ServerAgent");NDSummary.OnSummaryLoaded("LuaClass:ServerAgent",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[343,0,2,"ServerAgent"],[344,0,1,"Functions","Functions"],[345,0,0,"Call","Call"]]);

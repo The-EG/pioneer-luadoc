@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:LuaObject.cpp.lua","LuaObject.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaObject.cpp.lua",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[410,0,0,"Object","Object"],[411,0,2,"Functions","Object.Functions"],[412,0,1,"exists","Object.exists"],[413,0,1,"isa","Object.isa"]]);

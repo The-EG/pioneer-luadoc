@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:HyperspaceCloud","HyperspaceCloud");NDSummary.OnSummaryLoaded("LuaClass:HyperspaceCloud",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[818,0,0,"HyperspaceCloud"],[819,0,2,"Functions","Functions"],[820,0,1,"IsArrival","IsArrival"],[821,0,1,"GetShip","GetShip"],[822,0,1,"GetDueDate","GetDueDate"]]);

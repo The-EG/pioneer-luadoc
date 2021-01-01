@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gam",["Interface"],[["Game",,[[,,,,0,"File:LuaGame.cpp.lua:Game","LuaClass:Game"]]]]);

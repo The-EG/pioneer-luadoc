@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("doc",["Constant"],[["DOCKED",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.DOCKED","LuaClass:Constants:DOCKED"]]],["DOCKING",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.DOCKING","LuaClass:Constants:DOCKING"]]]]);

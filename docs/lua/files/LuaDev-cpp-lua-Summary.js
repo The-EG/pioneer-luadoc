@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:LuaDev.cpp.lua","LuaDev.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaDev.cpp.lua",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"]],[[724,0,1,"Functions","Functions"],[725,0,0,"GalaxyStats","GalaxyStats"]]);

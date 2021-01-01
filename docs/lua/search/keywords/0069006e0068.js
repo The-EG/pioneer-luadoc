@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("inh",["Function"],[["InHyperspace",,[["Game",,,,0,"File:LuaGame.cpp.lua:Game.InHyperspace","LuaClass:Game:InHyperspace"]]]]);

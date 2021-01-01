@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("arm",["Function"],[["Arm",,[["Missile",,,,0,"File:LuaMissile.cpp.lua:Missile.Arm","LuaClass:Missile:Arm"]]]]);

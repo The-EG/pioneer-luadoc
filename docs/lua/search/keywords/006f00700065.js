@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ope",["Function"],[["openRadialMenu",,[["ui",,,,0,"File2:libs/radial-menu.lua:ui.openRadialMenu"]]]]);

@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({342:"<div class=\"NDToolTip TClass LLua\"><div class=\"TTSummary\">Class representing a body with an attached model. Inherits from Body.</div></div>",632:"<div class=\"NDToolTip TConstant LLua\"><div class=\"TTSummary\">Cargo/commodity types.</div></div>"});

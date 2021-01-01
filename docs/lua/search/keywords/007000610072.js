@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("par",["Attribute","Function"],[["parent",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.parent","LuaClass:SystemBody:parent"]]],["ParseString",,[["SystemPath",,,,1,"File:LuaSystemPath.cpp.lua:SystemPath.ParseString","LuaClass:SystemPath:ParseString"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ref",["Function","Constant"],[["Refuel",,[["Ship",,,,0,"File3:Ship.lua:Ship.Refuel","LuaClass:Ship:Refuel"]]],["REFUSED_PERM",,[["Constants",,,,1,"File:LuaConstants.cpp.lua:Constants.REFUSED_PERM","LuaClass:Constants:REFUSED_PERM"]]]]);

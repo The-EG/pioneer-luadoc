@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:NameGen","NameGen");NDSummary.OnSummaryLoaded("LuaClass:NameGen",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[66,0,2,"NameGen"],[67,0,1,"Functions","Functions"],[68,0,0,"FullName","FullName"],[69,0,0,"Surname","Surname"],[70,0,0,"BodyName","BodyName"]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File2:init.lua",{270:"<div class=\"NDToolTip TClass LLua\"><div class=\"TTSummary\">The core Pioneer GUI (PiGUI) Lua API. The functions here should be used when creating new UI screens or elements.</div></div>"});

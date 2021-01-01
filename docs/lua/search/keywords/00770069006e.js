@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("win",["Function"],[["window",,[["pigui",,,,0,"File2:libs/wrappers.lua:pigui.window","LuaClass:pigui:window"]]]]);

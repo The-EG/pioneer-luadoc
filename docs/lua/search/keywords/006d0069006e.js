@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("min",["Attribute","Constant"],[["minCrew",,[["ShipDef",,,,0,"File:LuaShipDef.cpp.lua:ShipDef.minCrew","LuaClass:ShipDef:minCrew"]]],["MINING_MACHINERY",,[["Constants",,,,1,"File:LuaConstants.cpp.lua:Constants.MINING_MACHINERY","LuaClass:Constants:MINING_MACHINERY"]]]]);

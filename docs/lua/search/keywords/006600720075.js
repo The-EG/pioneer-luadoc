@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fru",["Constant"],[["FRUIT_AND_VEG",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.FRUIT_AND_VEG","LuaClass:Constants:FRUIT_AND_VEG"]]]]);

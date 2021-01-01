@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("leg",["Class"],[["Legal",,[[,,,,0,"File3:Legal.lua:Legal","LuaClass:Legal"]]]]);

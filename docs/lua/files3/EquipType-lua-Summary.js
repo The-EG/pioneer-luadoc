@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File3:EquipType.lua","EquipType.lua");NDSummary.OnSummaryLoaded("File3:EquipType.lua",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[41,0,0,"EquipType","EquipType"],[42,0,2,"Methods","EquipType.Methods"],[43,0,1,"GetDefaultSlot","EquipType.GetDefaultSlot"],[44,0,1,"IsValidSlot","EquipType.IsValidSlot"]]);

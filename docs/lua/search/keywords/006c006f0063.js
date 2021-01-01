@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("loc",["Function"],[["LockAdvert",,[["SpaceStation",,,,0,"File3:SpaceStation.lua:SpaceStation.LockAdvert","LuaClass:SpaceStation:LockAdvert"]]]]);

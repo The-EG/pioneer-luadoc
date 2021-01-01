@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bot",["Constant"],[["bottom",,[["pigui.anchor",,,,0,"File2:baseui.lua:pigui.anchor.bottom","LuaClass:pigui:bottom"]]]]);

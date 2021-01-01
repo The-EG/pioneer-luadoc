@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("der",["Function"],[["Deregister",,[["Event",,,,0,"File3:Event.lua:Event.Deregister","LuaClass:Event:Deregister"]]]]);

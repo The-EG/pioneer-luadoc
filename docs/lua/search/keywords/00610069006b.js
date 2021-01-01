@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("aik",["Function"],[["AIKamikaze",,[["Missile",,,,0,"File:LuaMissile.cpp.lua:Missile.AIKamikaze","LuaClass:Missile:AIKamikaze"],["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.AIKamikaze","LuaClass:Ship:AIKamikaze"]]],["AIKill",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.AIKill","LuaClass:Ship:AIKill"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isg",["Attribute"],[["isGroundStation",,[["SpaceStation",,,,0,"File:LuaSpaceStation.cpp.lua:SpaceStation.isGroundStation","LuaClass:SpaceStation:isGroundStation"]]]]);

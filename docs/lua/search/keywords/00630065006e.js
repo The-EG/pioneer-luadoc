@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cen",["Constant"],[["center",,[["pigui.anchor",,,,0,"File2:baseui.lua:pigui.anchor.center","LuaClass:pigui:center"]]]]);
