@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gau",["Function"],[["gauge",,[["pigui",,,,0,"File2:libs/gauge.lua:pigui.gauge","LuaClass:pigui:gauge"]]]]);

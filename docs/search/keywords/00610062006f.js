@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("abo",["Function"],[["AbortHyperjump",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.AbortHyperjump","LuaClass:Ship:AbortHyperjump"]]]]);

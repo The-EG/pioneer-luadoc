@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("anc",["Enumeration"],[["anchor",,[["pigui",,,,0,"File2:baseui.lua:pigui.anchor","LuaClass:pigui:anchor"]]]]);

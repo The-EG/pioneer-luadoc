@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tim",["Attribute","Class"],[["time",,[["Game",,,,0,"File:LuaGame.cpp.lua:Game.time","LuaClass:Game:time"]]],["Timer",,[[,,,,1,"File:LuaTimer.cpp.lua:Timer","LuaClass:Timer"]]]]);

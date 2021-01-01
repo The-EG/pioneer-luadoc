@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:CargoBody","CargoBody");NDSummary.OnSummaryLoaded("LuaClass:CargoBody",[["Lua","Lua"]],[["Attributes","Attribute"],["Classes","Class"],["Groups","Group"]],[[637,0,1,"CargoBody"],[638,0,2,"Attributes","Attributes"],[639,0,0,"type","type"]]);

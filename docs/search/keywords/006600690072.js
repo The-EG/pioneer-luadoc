@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fir",["Function"],[["FireMissileAt",,[["Ship",,,,0,"File3:Ship.lua:Ship.FireMissileAt","LuaClass:Ship:FireMissileAt"]]]]);

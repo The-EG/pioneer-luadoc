@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:Rand","Rand");NDSummary.OnSummaryLoaded("LuaClass:Rand",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[413,0,0,"Rand"],[414,0,2,"Functions","Functions"],[415,0,1,"New","New"],[416,0,1,"Number","Number"],[417,0,1,"Poisson","Poisson"],[418,0,1,"Normal","Normal"],[419,0,1,"Integer","Integer"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("imp",["Function"],[["ImportantMessage",,[["Comms",,,,0,"File3:Comms.lua:Comms.ImportantMessage","LuaClass:Comms:ImportantMessage"]]]]);

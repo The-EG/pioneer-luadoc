@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mas",["Attribute"],[["mass",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.mass","LuaClass:SystemBody:mass"]]]]);

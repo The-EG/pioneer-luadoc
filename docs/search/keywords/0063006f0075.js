@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cou",["Function"],[["Count",,[["EquipSet",,,,0,"File3:EquipSet.lua:EquipSet.Count","LuaClass:EquipSet:Count"]]],["CountEquip",,[["Ship",,,,0,"File3:Ship.lua:Ship.CountEquip","LuaClass:Ship:CountEquip"]]]]);

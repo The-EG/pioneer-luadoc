@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:LuaSystemView.cpp.lua","LuaSystemView.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaSystemView.cpp.lua",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"]],[[278,0,1,"Functions","Functions"],[279,0,0,"GetProjectedGrouped","GetProjectedGrouped"]]);

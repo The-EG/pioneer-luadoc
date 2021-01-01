@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lif",["Attribute"],[["life",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.life","LuaClass:SystemBody:life"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isv",["Function"],[["IsValidSlot",,[["EquipType",,,,0,"File3:EquipType.lua:EquipType.IsValidSlot","LuaClass:EquipType:IsValidSlot"]]]]);

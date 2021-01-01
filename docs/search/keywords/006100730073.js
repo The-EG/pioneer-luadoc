@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ass",["Attribute"],[["assistcount",,[["Character",,,,0,"File3:Character.lua:Character.assistcount","LuaClass:Character:assistcount"]]]]);

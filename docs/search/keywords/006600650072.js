@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fer",["Constant"],[["FERTILIZER",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.FERTILIZER","LuaClass:Constants:FERTILIZER"]]]]);

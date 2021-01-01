@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("atm",["Constant","Attribute"],[["atmo_shield",,[[,,,,0,"File3:Equipment.lua:atmo_shield"]]],["atmosOxidizing",,[["SystemBody",,,,1,"File:LuaSystemBody.cpp.lua:SystemBody.atmosOxidizing","LuaClass:SystemBody:atmosOxidizing"]]]]);

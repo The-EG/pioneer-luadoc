@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hul",["Constant","Attribute"],[["hull_autorepair",,[[,,,,0,"File3:Equipment.lua:hull_autorepair"]]],["hullMass",,[["ShipDef",,,,1,"File:LuaShipDef.cpp.lua:ShipDef.hullMass","LuaClass:ShipDef:hullMass"]]],["hullMassLeft",,[["Ship",,,,1,"File:LuaShip.cpp.lua:Ship.hullMassLeft","LuaClass:Ship:hullMassLeft"]]]]);

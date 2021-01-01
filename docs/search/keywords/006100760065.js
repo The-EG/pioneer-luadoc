@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ave",["Attribute"],[["averageTemp",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.averageTemp","LuaClass:SystemBody:averageTemp"]]]]);

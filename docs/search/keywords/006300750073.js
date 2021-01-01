@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cus",["Function"],[["customTooltip",,[["pigui",,,,0,"File2:libs/wrappers.lua:pigui.customTooltip","LuaClass:pigui:customTooltip"]]]]);

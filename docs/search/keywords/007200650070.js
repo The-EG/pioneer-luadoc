@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rep",["Attribute"],[["reputation",,[["Character",,,,0,"File3:Character.lua:Character.reputation","LuaClass:Character:reputation"]]]]);

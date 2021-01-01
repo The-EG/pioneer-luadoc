@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File2:libs/forwarded.lua","forwarded.lua");NDSummary.OnSummaryLoaded("File2:libs/forwarded.lua",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"]],[[257,0,1,"Functions","Functions"],[258,0,0,"<span class=\"Qualifier\">ui.</span>&#8203;incrementDrag","ui.incrementDrag"]]);

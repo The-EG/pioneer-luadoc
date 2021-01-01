@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:textTable","textTable");NDSummary.OnSummaryLoaded("LuaClass:textTable",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[172,0,2,"textTable"],[173,0,1,"Functions","Functions"],[174,0,0,"draw()","draw"],[175,0,0,"withHeading","withHeading"],[176,0,0,"drawTable()","drawTable"]]);

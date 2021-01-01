@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("obj",["Class"],[["Object",,[[,,,,0,"File:LuaObject.cpp.lua:Object","LuaClass:Object"]]]]);

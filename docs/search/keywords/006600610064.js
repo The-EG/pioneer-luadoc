@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fad",["Function"],[["FadeIn",,[["Music",,,,0,"File:LuaMusic.cpp.lua:Music.FadeIn","LuaClass:Music:FadeIn"]]],["FadeOut",,[["Music",,,,0,"File:LuaMusic.cpp.lua:Music.FadeOut","LuaClass:Music:FadeOut"]]]]);

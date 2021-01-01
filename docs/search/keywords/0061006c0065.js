@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ale",["Attribute"],[["alertStatus",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.alertStatus","LuaClass:Ship:alertStatus"]]]]);

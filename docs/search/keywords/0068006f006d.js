@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hom",["Attribute"],[["homeworld",,[["Faction",,,,0,"File:LuaFaction.cpp.lua:Faction.homeworld","LuaClass:Faction:homeworld"]]]]);

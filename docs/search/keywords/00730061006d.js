@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sam",["Function"],[["sameLine",,[["pigui",,,,0,"File:LuaPiGui.cpp.lua:pigui.sameLine","LuaClass:pigui:sameLine"]]]]);

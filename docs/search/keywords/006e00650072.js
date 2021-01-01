@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ner",["Constant"],[["NERVE_GAS",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.NERVE_GAS","LuaClass:Constants:NERVE_GAS"]]]]);

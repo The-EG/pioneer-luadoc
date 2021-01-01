@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sep",["Function"],[["separator",,[["pigui",,,,0,"File:LuaPiGui.cpp.lua:pigui.separator","LuaClass:pigui:separator"]]]]);

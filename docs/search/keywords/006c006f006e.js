@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lon",["Function"],[["Longitude",,[["pigui.Format",,,,0,"File2:libs/text.lua:pigui.Format.Longitude","LuaClass:pigui:Format.Longitude"]]]]);

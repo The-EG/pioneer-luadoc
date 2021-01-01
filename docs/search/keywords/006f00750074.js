@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("out",["Constant"],[["OUT_OF_RANGE",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.OUT_OF_RANGE","LuaClass:Constants:OUT_OF_RANGE"]]]]);

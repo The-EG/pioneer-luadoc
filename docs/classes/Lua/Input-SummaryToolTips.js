@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("LuaClass:Input",{560:"<div class=\"NDToolTip TInterface LLua\"><div class=\"TTSummary\">A global table that exposes the engine\'s Input interface. Key bindings and state can be queried here.</div></div>",562:"<div class=\"NDToolTip TFunction LLua\"><div class=\"TTSummary\">Get a table listing all the current key and axis bindings.</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("occ",["Function"],[["OccupiedSpace",,[["EquipSet",,,,0,"File3:EquipSet.lua:EquipSet.OccupiedSpace","LuaClass:EquipSet:OccupiedSpace"]]]]);

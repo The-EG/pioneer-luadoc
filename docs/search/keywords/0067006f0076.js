@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gov",["Attribute"],[["govDescription",,[["StarSystem",,,,0,"File:LuaStarSystem.cpp.lua:StarSystem.govDescription","LuaClass:StarSystem:govDescription"]]],["govtype",,[["StarSystem",,,,0,"File:LuaStarSystem.cpp.lua:StarSystem.govtype","LuaClass:StarSystem:govtype"]]]]);

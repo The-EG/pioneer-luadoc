@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ini",["Function"],[["InitiateHyperjumpTo",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.InitiateHyperjumpTo","LuaClass:Ship:InitiateHyperjumpTo"]]]]);

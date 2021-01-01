@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ecc",["Attribute"],[["eccentricity",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.eccentricity","LuaClass:SystemBody:eccentricity"]]]]);

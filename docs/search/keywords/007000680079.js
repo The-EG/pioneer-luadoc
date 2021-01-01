@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("phy",["Constant"],[["PhysicsObjectType",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.PhysicsObjectType","LuaClass:Constants:PhysicsObjectType"]]]]);

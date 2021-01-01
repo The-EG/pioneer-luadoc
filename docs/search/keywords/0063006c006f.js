@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("clo",["Function"],[["Clone",,[["Character",,,,0,"File3:Character.lua:Character.Clone","LuaClass:Character:Clone"]]]]);

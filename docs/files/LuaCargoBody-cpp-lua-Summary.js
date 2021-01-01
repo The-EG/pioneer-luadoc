@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:LuaCargoBody.cpp.lua","LuaCargoBody.cpp.lua");NDSummary.OnSummaryLoaded("File:LuaCargoBody.cpp.lua",[["Lua","Lua"]],[["Attributes","Attribute"],["Classes","Class"],["Groups","Group"]],[[637,0,1,"CargoBody","CargoBody"],[638,0,2,"Attributes","CargoBody.Attributes"],[639,0,0,"type","CargoBody.type"]]);

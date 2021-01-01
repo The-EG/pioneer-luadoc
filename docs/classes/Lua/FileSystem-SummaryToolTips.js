@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("LuaClass:FileSystem",{586:"<div class=\"NDToolTip TInterface LLua\"><div class=\"TTSummary\">A global table that provides access to the filesystem.</div></div>"});

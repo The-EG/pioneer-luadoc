@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:Object","Object");NDSummary.OnSummaryLoaded("LuaClass:Object",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[444,0,0,"Object"],[445,0,2,"Functions","Functions"],[446,0,1,"exists","exists"],[447,0,1,"isa","isa"]]);

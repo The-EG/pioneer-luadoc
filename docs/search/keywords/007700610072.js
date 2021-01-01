@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("war",["Constant"],[["WARNING",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.WARNING","LuaClass:Constants:WARNING"]]]]);

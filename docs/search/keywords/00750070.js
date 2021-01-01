@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("up",["Constant"],[["UP",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.UP","LuaClass:Constants:UP"]]]]);

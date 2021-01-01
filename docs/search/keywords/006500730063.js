@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("esc",["Function"],[["escapeKeyReleased",,[["pigui",,,,0,"File2:libs/wrappers.lua:pigui.escapeKeyReleased","LuaClass:pigui:escapeKeyReleased"]]]]);

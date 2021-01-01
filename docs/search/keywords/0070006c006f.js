@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("plo",["Function"],[["plotHistogram",,[["pigui",,,,0,"File:LuaPiGui.cpp.lua:pigui.plotHistogram","LuaClass:pigui:plotHistogram"]]]]);

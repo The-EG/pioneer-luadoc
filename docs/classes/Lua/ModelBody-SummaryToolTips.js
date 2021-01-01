@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("LuaClass:ModelBody",{448:"<div class=\"NDToolTip TClass LLua\"><div class=\"TTSummary\">Class representing a body with an attached model. Inherits from Body.</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:Console","Console");NDSummary.OnSummaryLoaded("LuaClass:Console",[["Lua","Lua"]],[["Functions","Function"],["Groups","Group"],["Interfaces","Interface"]],[[612,0,2,"Console"],[613,0,1,"Functions","Functions"],[614,0,0,"AddLine","AddLine"]]);

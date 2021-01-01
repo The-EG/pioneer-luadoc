@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("poi",["Function"],[["Poisson",,[["Rand",,,,0,"File:LuaRand.cpp.lua:Rand.Poisson","LuaClass:Rand:Poisson"]]]]);

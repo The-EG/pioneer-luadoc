@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isc",["Function"],[["IsCombatRated",,[["Character",,,,0,"File3:Character.lua:Character.IsCombatRated","LuaClass:Character:IsCombatRated"]]],["IsCommodityLegal",,[["StarSystem",,,,0,"File:LuaStarSystem.cpp.lua:StarSystem.IsCommodityLegal","LuaClass:StarSystem:IsCommodityLegal"]]]]);

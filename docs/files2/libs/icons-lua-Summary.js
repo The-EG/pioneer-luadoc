@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File2:libs/icons.lua","icons.lua");NDSummary.OnSummaryLoaded("File2:libs/icons.lua",[["Lua","Lua"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[249,0,0,"pigui","pigui"],[250,0,2,"Icons","pigui.Icons"],[251,0,1,"addIcon","pigui.addIcon"],[252,0,1,"addWideIcon","pigui.addWideIcon"],[253,0,1,"icon","pigui.icon"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("onl",["Event"],[["onLeaveSystem",,[["Event",,,,0,"File3:Event.lua:Event.onLeaveSystem","LuaClass:Event:onLeaveSystem"]]]]);

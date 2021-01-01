@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("axi",["Attribute"],[["axialTilt",,[["SystemBody",,,,0,"File:LuaSystemBody.cpp.lua:SystemBody.axialTilt","LuaClass:SystemBody:axialTilt"]]]]);

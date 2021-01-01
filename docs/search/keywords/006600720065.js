@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fre",["Attribute","Function"],[["freeCapacity",,[["Ship",,,,0,"File:LuaShip.cpp.lua:Ship.freeCapacity","LuaClass:Ship:freeCapacity"]]],["FreeSpace",,[["EquipSet",,,,1,"File3:EquipSet.lua:EquipSet.FreeSpace","LuaClass:EquipSet:FreeSpace"]]]]);

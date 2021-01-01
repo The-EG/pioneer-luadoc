@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lab",["Attribute"],[["label",,[["Body",,,,0,"File:LuaBody.cpp.lua:Body.label","LuaClass:Body:label"]]]]);

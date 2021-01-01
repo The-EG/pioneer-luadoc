@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gas",["Constant"],[["GAS_GIANT",,[["Constants",,,,0,"File:LuaConstants.cpp.lua:Constants.GAS_GIANT","LuaClass:Constants:GAS_GIANT"]]]]);
