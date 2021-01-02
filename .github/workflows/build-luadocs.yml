@@ -41,6 +41,7 @@ jobs:
     - name: Generate Lua Documentation
       run: |
         mkdir -p docs/lua
+        rm -rf docs/lua/*
         mono NaturalDocs/NaturalDocs.exe pioneer/nd -i gen/ -i pioneer/data/pigui -i pioneer/data/libs -o html docs/lua
         
     - name: Commit and push changes
@@ -48,6 +49,6 @@ jobs:
         MSG=`git log --oneline -1 --pretty=format:%B master`
         git add docs
         git commit -m "Update Lua Documentation (${MSG})"
-        git push -u origin gh-pages
+        git push -f -u origin gh-pages
         
  
