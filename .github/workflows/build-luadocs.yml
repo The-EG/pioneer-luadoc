@@ -17,7 +17,7 @@ jobs:
         submodules: true
         fetch-depth: 0
         
-    - name: Setup git identify
+    - name: Setup git identity
       run: |
         git config --local user.name "Commander Jameson"
         git config --local user.email "CmdrJameson@pioneerspacesim.net"
