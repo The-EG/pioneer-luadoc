@@ -25,7 +25,7 @@ jobs:
     - name: Rebase gh-pages to master
       run: |
         git checkout gh-pages
-        git rebase master
+        git pull origin/master
      
     - name: Download Natural Docs 2.1
       run: |
@@ -48,7 +48,7 @@ jobs:
     - name: Commit and push changes
       run: |
         git add docs
-        git commit --amend -m "Update Lua Documentation"
-        git push -f -u origin gh-pages
+        git commit -m "Update Lua Documentation"
+        git push -u origin gh-pages
         
  
