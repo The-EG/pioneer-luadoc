@@ -13,18 +13,17 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        ref: master
+        ref: gh-pages
         submodules: true
-        fetch-depth: 0
+        
         
     - name: Setup git identify
       run: |
         git config --local user.name "Commander Jameson"
         git config --local user.email "CmdrJameson@pioneerspacesim.net"
         
-    - name: Rebase gh-pages to master
+    - name: Merge master into gh-pages
       run: |
-        git checkout gh-pages
         git pull --no-rebase origin master
      
     - name: Download Natural Docs 2.1
@@ -37,7 +36,6 @@ jobs:
       run: |
         mkdir gen
         /bin/bash pioneer/scripts/gen_cpp_lua.sh
-        cat gen/LuaConstants.cpp.lua
        
         
     - name: Generate Lua Documentation
