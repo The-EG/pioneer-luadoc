@@ -1,1 +1,1 @@
-﻿NDFramePage.OnPageTitleLoaded("LuaClass:ModelBody","ModelBody");NDSummary.OnSummaryLoaded("LuaClass:ModelBody",[["Lua","Lua"]],[["Classes","Class"]],[[342,0,0,"ModelBody"]]);
+﻿NDFramePage.OnPageTitleLoaded("LuaClass:ModelBody","ModelBody");NDSummary.OnSummaryLoaded("LuaClass:ModelBody",[["Lua","Lua"]],[["Classes","Class"]],[[358,0,0,"ModelBody"]]);
