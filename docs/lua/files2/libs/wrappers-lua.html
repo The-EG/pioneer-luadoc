@@ -8,173 +8,173 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="pigui"></a><a name="Topic199"></a><div class="CTopic TInterface LLua first">
+<a name="pigui"></a><a name="Topic214"></a><div class="CTopic TInterface LLua first">
  <div class="CTitle">pigui</div>
 </div>
 
-<a name="pigui.Core_API"></a><a name="Topic200"></a><div class="CTopic TGroup LLua">
+<a name="pigui.Core_API"></a><a name="Topic215"></a><div class="CTopic TGroup LLua">
  <div class="CTitle">Core API</div>
 </div>
 
-<a name="pigui.rescaleUI"></a><a name="Topic201"></a><div class="CTopic TFunction LLua">
+<a name="pigui.rescaleUI"></a><a name="Topic216"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">rescaleUI</div>
- <div id="NDPrototype201" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.rescaleUI(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">val,</td></tr><tr><td class="PName first last">baseResolution,</td></tr><tr><td class="PName first last">rescaleToScreenAspect,</td></tr><tr><td class="PName first last">targetResolution</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype216" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.rescaleUI(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">val,</td></tr><tr><td class="PName first last">baseResolution,</td></tr><tr><td class="PName first last">rescaleToScreenAspect,</td></tr><tr><td class="PName first last">targetResolution</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.rescaleUI(val, baseResolution, rescaleToScreenAspect, targetResolution)</p><p>Scales a set of values (normally a size or a position) based on a base resolution and the current or target resultion.</p><div class="CHeading">Example</div><pre>size = ui.rescaleUI(Vector2(96, 96), Vector2(1600, 900))</pre><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">val</td><td class="CDLDefinition"><p>number|Vector2|Table, the values to scale</p></td></tr><tr><td class="CDLEntry">baseResolution</td><td class="CDLDefinition"><p>Vector2, the resolution at which val is valid</p></td></tr><tr><td class="CDLEntry">rescaleToScreenAspect</td><td class="CDLDefinition"><p>(Optional) number, when scaling a Vector2, scale x and y appropriately to match the given aspect ratio</p></td></tr><tr><td class="CDLEntry">targetResolution</td><td class="CDLDefinition"><p>(Optional) Vector2, the target resolution to scale the value to. Default: current screen resolution.</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">number|Vector2|Table</td><td class="CDLDefinition"><p>the scaled value</p></td></tr></table></div>
 </div>
 
-<a name="pigui.pcall"></a><a name="Topic202"></a><div class="CTopic TFunction LLua">
+<a name="pigui.pcall"></a><a name="Topic217"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">pcall</div>
- <div id="NDPrototype202" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.pcall(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="first"></td><td class="PName last">fun,</td></tr><tr><td class="PSymbols first">...</td><td class="last"></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype217" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.pcall(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="first"></td><td class="PName last">fun,</td></tr><tr><td class="PSymbols first">...</td><td class="last"></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.pcall(fun, ...)</p><p>Clean up the ImGui stack in case of an error</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><p>fun - ... -</p><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.window"></a><a name="Topic203"></a><div class="CTopic TFunction LLua">
+<a name="pigui.window"></a><a name="Topic218"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">window</div>
- <div id="NDPrototype203" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.window(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">name,</td></tr><tr><td class="PName first last">params,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype218" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.window(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">name,</td></tr><tr><td class="PName first last">params,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.window(name, params, fun)</p><p>Display a window</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">name</td><td class="CDLDefinition"><p>String, a unique name for the window, used to group its children</p></td></tr><tr><td class="CDLEntry">params</td><td class="CDLDefinition"><p>Table, window options: - NoTitleBar&nbsp; : Disable title-bar - NoResize&nbsp; : Disable user resizing with the lower-right grip - NoMove&nbsp; : Disable user moving the window - NoScrollbar&nbsp; : Disable scrollbars (window can still scroll with mouse or programmatically) - NoScrollWithMouse&nbsp; : Disable user vertically scrolling with mouse wheel.&nbsp; On child window, mouse wheel will be forwarded to the parent unless NoScrollbar is also set.&nbsp; - NoCollapse&nbsp; : Disable user collapsing window by double-clicking on it - AlwaysAutoResize&nbsp; : Resize every window to its content every frame - NoSavedSettings&nbsp; : Never load/save settings in .ini file - NoInputs&nbsp; : - MenuBar&nbsp; : Has a menu-bar - HorizontalScrollbar&nbsp; : Allow horizontal scrollbar to appear (off by default).&nbsp; - NoFocusOnAppearing&nbsp; : Disable taking focus when transitioning from hidden to visible state - NoBringToFrontOnFocus&nbsp; : Disable bringing window to front when taking focus (e.g. clicking on it or programmatically giving it focus) - AlwaysVerticalScrollbar&nbsp; : Always show vertical scrollbar - AlwaysHorizontalScrollbar : Always show horizontal scrollbar - AlwaysUseWindowPadding&nbsp; : Ensure child windows without border uses style.WindowPadding (ignored by default for non-bordered child windows, because more convenient)</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>Function, a function that is called to define the window contents</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.group"></a><a name="Topic204"></a><div class="CTopic TFunction LLua">
+<a name="pigui.group"></a><a name="Topic219"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">group</div>
- <div id="NDPrototype204" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.group(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype219" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.group(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.group(fun)</p><p>Display items in a group</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>Function, a function that is called to define the group contents</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.popup"></a><a name="Topic205"></a><div class="CTopic TFunction LLua">
+<a name="pigui.popup"></a><a name="Topic220"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">popup</div>
- <div id="NDPrototype205" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.popup(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">name,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype220" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.popup(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">name,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.popup(name, params, fun)</p><p>Display a popup window</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">name</td><td class="CDLDefinition"><p>String, a unique name for the window, used to group its children</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>Function, a function that is called to define the popup contents</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.customTooltip"></a><a name="Topic206"></a><div class="CTopic TFunction LLua">
+<a name="pigui.customTooltip"></a><a name="Topic221"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">customTooltip</div>
- <div id="NDPrototype206" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.customTooltip(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype221" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.customTooltip(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.customTooltip(fun)</p><p>Display a tooltip window</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>Function, a function that is called to define the tooltip contents</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.child"></a><a name="Topic207"></a><div class="CTopic TFunction LLua">
+<a name="pigui.child"></a><a name="Topic222"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">child</div>
- <div id="NDPrototype207" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.child(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">id,</td></tr><tr><td class="PName first last">size,</td></tr><tr><td class="PName first last">flags,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype222" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.child(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">id,</td></tr><tr><td class="PName first last">size,</td></tr><tr><td class="PName first last">flags,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.child(id, size, flags, fun)</p><p>Define a child window</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">id</td><td class="CDLDefinition"><p>String, a unique name for the window, used to group its children</p></td></tr><tr><td class="CDLEntry">size</td><td class="CDLDefinition"><p>(Optional)Vector2</p></td></tr><tr><td class="CDLEntry">flags</td><td class="CDLDefinition"><p>(Optional)Table, options: - NoTitleBar&nbsp; : Disable title-bar - NoResize&nbsp; : Disable user resizing with the lower-right grip - NoMove&nbsp; : Disable user moving the window - NoScrollbar&nbsp; : Disable scrollbars (window can still scroll with mouse or programmatically) - NoScrollWithMouse&nbsp; : Disable user vertically scrolling with mouse wheel.&nbsp; On child window, mouse wheel will be forwarded to the parent unless NoScrollbar is also set.&nbsp; - NoCollapse&nbsp; : Disable user collapsing window by double-clicking on it - AlwaysAutoResize&nbsp; : Resize every window to its content every frame - NoSavedSettings&nbsp; : Never load/save settings in .ini file - NoInputs&nbsp; : - MenuBar&nbsp; : Has a menu-bar - HorizontalScrollbar&nbsp; : Allow horizontal scrollbar to appear (off by default).&nbsp; - NoFocusOnAppearing&nbsp; : Disable taking focus when transitioning from hidden to visible state - NoBringToFrontOnFocus&nbsp; : Disable bringing window to front when taking focus (e.g. clicking on it or programmatically giving it focus) - AlwaysVerticalScrollbar&nbsp; : Always show vertical scrollbar - AlwaysHorizontalScrollbar : Always show horizontal scrollbar - AlwaysUseWindowPadding&nbsp; : Ensure child windows without border uses style.WindowPadding (ignored by default for non-bordered child windows, because more convenient)</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>Function, a function that is called to define the popup contents</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.withTooltip"></a><a name="Topic208"></a><div class="CTopic TFunction LLua">
+<a name="pigui.withTooltip"></a><a name="Topic223"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">withTooltip</div>
- <div id="NDPrototype208" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withTooltip(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">tooltip,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype223" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withTooltip(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">tooltip,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.withTooltip(tooltip, fun)</p><p>Display something, but with a tooltip shown on mouseover</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">tooltip</td><td class="CDLDefinition"><p>String, the tooltip to display</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>Function, a function that is called to display the contents that will have the tooltip</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.playBoinkNoise"></a><a name="Topic209"></a><div class="CTopic TFunction LLua">
+<a name="pigui.playBoinkNoise"></a><a name="Topic224"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">playBoinkNoise</div>
- <div id="NDPrototype209" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.playBoinkNoise()</div></div>
+ <div id="NDPrototype224" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.playBoinkNoise()</div></div>
  <div class="CBody"><p>ui.playBoinkNoise()</p><p>Boink!</p><div class="CHeading">Example</div><pre>ui.playBoinkNoise()</pre><div class="CHeading">Parameters</div><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.isMouseHoveringWindow"></a><a name="Topic210"></a><div class="CTopic TFunction LLua">
+<a name="pigui.isMouseHoveringWindow"></a><a name="Topic225"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">isMouseHoveringWindow</div>
- <div id="NDPrototype210" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.isMouseHoveringWindow()</div></div>
+ <div id="NDPrototype225" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.isMouseHoveringWindow()</div></div>
  <div class="CBody"><p>ui.isMouseHoveringWindow()</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">boolean</td><td class="CDLDefinition"><p>true if the mouse is currently within the current window, false otherwise</p></td></tr></table></div>
 </div>
 
-<a name="pigui.isAnyWindowHovered"></a><a name="Topic211"></a><div class="CTopic TFunction LLua">
+<a name="pigui.isAnyWindowHovered"></a><a name="Topic226"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">isAnyWindowHovered</div>
- <div id="NDPrototype211" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.isAnyWindowHovered()</div></div>
+ <div id="NDPrototype226" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.isAnyWindowHovered()</div></div>
  <div class="CBody"><p>ui.isAnyWindowHovered()</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">boolean</td><td class="CDLDefinition"><p>true if the mouse is currently within any window, false otherwise</p></td></tr></table></div>
 </div>
 
-<a name="pigui.ctrlHeld"></a><a name="Topic212"></a><div class="CTopic TFunction LLua">
+<a name="pigui.ctrlHeld"></a><a name="Topic227"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">ctrlHeld</div>
- <div id="NDPrototype212" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.ctrlHeld() <span class="SHKeyword">return</span> pigui.key_ctrl end</div></div>
+ <div id="NDPrototype227" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.ctrlHeld() <span class="SHKeyword">return</span> pigui.key_ctrl end</div></div>
  <div class="CBody"><p>ui.ctrlHeld()</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">boolean</td><td class="CDLDefinition"><p>true if a ctrl key is being held</p></td></tr></table></div>
 </div>
 
-<a name="pigui.altHeld"></a><a name="Topic213"></a><div class="CTopic TFunction LLua">
+<a name="pigui.altHeld"></a><a name="Topic228"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">altHeld</div>
- <div id="NDPrototype213" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.altHeld() <span class="SHKeyword">return</span> pigui.key_alt end</div></div>
+ <div id="NDPrototype228" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.altHeld() <span class="SHKeyword">return</span> pigui.key_alt end</div></div>
  <div class="CBody"><p>ui.altHeld()</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">boolean</td><td class="CDLDefinition"><p>true if an alt key is being held</p></td></tr></table></div>
 </div>
 
-<a name="pigui.shiftHeld"></a><a name="Topic214"></a><div class="CTopic TFunction LLua">
+<a name="pigui.shiftHeld"></a><a name="Topic229"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">shiftHeld</div>
- <div id="NDPrototype214" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.shiftHeld() <span class="SHKeyword">return</span> pigui.key_shift end</div></div>
+ <div id="NDPrototype229" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.shiftHeld() <span class="SHKeyword">return</span> pigui.key_shift end</div></div>
  <div class="CBody"><p>ui.shiftHeld()</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">boolean</td><td class="CDLDefinition"><p>true if a shift key is being held</p></td></tr></table></div>
 </div>
 
-<a name="pigui.noModifierHeld"></a><a name="Topic215"></a><div class="CTopic TFunction LLua">
+<a name="pigui.noModifierHeld"></a><a name="Topic230"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">noModifierHeld</div>
- <div id="NDPrototype215" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.noModifierHeld() <span class="SHKeyword">return</span> pigui.key_none end</div></div>
+ <div id="NDPrototype230" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.noModifierHeld() <span class="SHKeyword">return</span> pigui.key_none end</div></div>
  <div class="CBody"><p>ui.noModifierHeld()</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">boolean</td><td class="CDLDefinition"><p>true if no modifier (alt, shift, ctrl) keys are being held</p></td></tr></table></div>
 </div>
 
-<a name="pigui.escapeKeyReleased"></a><a name="Topic216"></a><div class="CTopic TFunction LLua">
+<a name="pigui.escapeKeyReleased"></a><a name="Topic231"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">escapeKeyReleased</div>
- <div id="NDPrototype216" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.escapeKeyReleased(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">ignorePopup</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype231" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.escapeKeyReleased(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">ignorePopup</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Performs some sanity checks and returns true if the user has pressed escape and the escape key is not currently being consumed.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">ignorePopup</td><td class="CDLDefinition"><p>if true, skip checking for open popups.</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">boolean</td><td class="CDLDefinition"><p>true if the escape key is pressed and not being consumed</p></td></tr></table></div>
 </div>
 
-<a name="pigui.tabBar"></a><a name="Topic217"></a><div class="CTopic TFunction LLua">
+<a name="pigui.tabBar"></a><a name="Topic232"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">tabBar</div>
- <div id="NDPrototype217" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.tabBar(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">id,</td></tr><tr><td class="PName first last">items</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype232" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.tabBar(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">id,</td></tr><tr><td class="PName first last">items</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.tabBar(id, items)</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">id</td><td class="CDLDefinition"><p>String, unique id to identify the group of tabs by</p></td></tr><tr><td class="CDLEntry">items</td><td class="CDLDefinition"><p>Table, a list of contents. Each item should be a table containing a table of tab options and a function to call that displays the tabs contents</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">boolean</td><td class="CDLDefinition"><p>true if the tab bar is open, false otherwise</p></td></tr></table></div>
 </div>
 
-<a name="pigui.withFont"></a><a name="Topic218"></a><div class="CTopic TFunction LLua">
+<a name="pigui.withFont"></a><a name="Topic233"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">withFont</div>
- <div id="NDPrototype218" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withFont(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">name,</td></tr><tr><td class="PName first last">size,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype233" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withFont(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">name,</td></tr><tr><td class="PName first last">size,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.withFont(name, size, fun)</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">name</td><td class="CDLDefinition"><p>Table|String, a table defining the font name and size or a string containing the name of the font</p></td></tr><tr><td class="CDLEntry">size</td><td class="CDLDefinition"><p>(Optional) number, font size. Optional if name is a table and defines size</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>function, a function to call that shows the contents with the defined font</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">any</td><td class="CDLDefinition"><p>the value returned from fun</p></td></tr></table></div>
 </div>
 
-<a name="pigui.withStyleColors"></a><a name="Topic219"></a><div class="CTopic TFunction LLua">
+<a name="pigui.withStyleColors"></a><a name="Topic234"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">withStyleColors</div>
- <div id="NDPrototype219" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withStyleColors(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">styles,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype234" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withStyleColors(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">styles,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.withStyleColors(styles, fun)</p><p>Display UI content with defined colors</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">styles</td><td class="CDLDefinition"><p>table, table of style elements with the desired colors: Text, TextDisabled, WindowBg, ChildWindowBg, PopupBg, Border, BorderShadow, FrameBg, FrameBgHovered, FrameBgActive,TitleBg, TitleBgCollapsed, TitleBgActive, MenuBarBg, ScrollbarBg, ScrollbarGrab, ScrollbarGrabHovered, ScrollbarGrabActive, CheckMark, SliderGrab, SliderGrabActive, Button, ButtonHovered, ButtonActive, Header, HeaderHovered, HeaderActive, Separator, SeparatorHovered, SeparatorActive, ResizeGrip, ResizeGripHovered, ResizeGripActive, PlotLines, PlotLinesHovered, PlotHistogram, PlotHistogramHovered, TextSelectedBg, ModalWindowDarkening</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>function, a function to call that shows the contents with the defined font</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">any</td><td class="CDLDefinition"><p>the value returned from fun</p></td></tr></table></div>
 </div>
 
-<a name="pigui.withStyleVars"></a><a name="Topic220"></a><div class="CTopic TFunction LLua">
+<a name="pigui.withStyleVars"></a><a name="Topic235"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">withStyleVars</div>
- <div id="NDPrototype220" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withStyleVars(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">vars,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype235" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withStyleVars(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">vars,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.withStyleVars(styles, fun)</p><p>Display UI content with defined styles</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">vars</td><td class="CDLDefinition"><p>table, table of style elements with the desired values: Alpha, WindowPadding, WindowRounding, WindowBorderSize, WindowMinSize, ChildRounding, ChildBorderSize, FramePadding, FrameRounding, FrameBorderSize, ItemSpacing, ItemInnerSpacing, IndentSpacing, GrabMinSize, ButtonTextAlign</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>function, a function to call that shows the contents with the defined font</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">any</td><td class="CDLDefinition"><p>the value returned from fun</p></td></tr></table></div>
 </div>
 
-<a name="pigui.withStyleColorsAndVars"></a><a name="Topic221"></a><div class="CTopic TFunction LLua">
+<a name="pigui.withStyleColorsAndVars"></a><a name="Topic236"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">withStyleColorsAndVars</div>
- <div id="NDPrototype221" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withStyleColorsAndVars(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">styles,</td></tr><tr><td class="PName first last">vars,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype236" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withStyleColorsAndVars(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">styles,</td></tr><tr><td class="PName first last">vars,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.withStyleColorsAndVars(styles, vars, fun)</p><p>Display UI content with defined styles and colors</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">styles</td><td class="CDLDefinition"><p>table, table of style elements with the desired colors (see ui.withStyleColors)</p></td></tr><tr><td class="CDLEntry">vars</td><td class="CDLDefinition"><p>table, table of style elements with the desired values (see ui.withStyleVars)</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>function, a function to call that shows the contents with the defined font</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">any</td><td class="CDLDefinition"><p>the value returned from fun</p></td></tr></table></div>
 </div>
 
-<a name="pigui.screenSize"></a><a name="Topic222"></a><div class="CTopic TFunction LLua">
+<a name="pigui.screenSize"></a><a name="Topic237"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">screenSize</div>
- <div id="NDPrototype222" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.screenSize()</div></div>
+ <div id="NDPrototype237" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">function</span> ui.screenSize()</div></div>
  <div class="CBody"><p>ui.screenSize()</p><p>Return the current screen resolution as a Vector2</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">Vector2</td><td class="CDLDefinition"><p>screen width and height</p></td></tr></table></div>
 </div>
 
-<a name="pigui.setNextWindowPosCenter"></a><a name="Topic223"></a><div class="CTopic TFunction LLua">
+<a name="pigui.setNextWindowPosCenter"></a><a name="Topic238"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">setNextWindowPosCenter</div>
- <div id="NDPrototype223" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.setNextWindowPosCenter(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">cond</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype238" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.setNextWindowPosCenter(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">cond</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.setNextWindowPosCenter(cond)</p><p>Set the next window position to be centered on screen</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">cond</td><td class="CDLDefinition"><p>table, condition flags: Always, Once, FirstUseEver, Appearing</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.sameLine"></a><a name="Topic224"></a><div class="CTopic TFunction LLua">
+<a name="pigui.sameLine"></a><a name="Topic239"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">sameLine</div>
- <div id="NDPrototype224" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.sameLine(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">pos_x,</td></tr><tr><td class="PName first last">spacing_w</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype239" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.sameLine(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">pos_x,</td></tr><tr><td class="PName first last">spacing_w</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.sameLine(pos_x, spacing_w)</p><p>Draw the next command on the same line as the previous</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">pos_x</td><td class="CDLDefinition"><p>(Optional) number, X position for next draw command, default 0</p></td></tr><tr><td class="CDLEntry">spacing_w</td><td class="CDLDefinition"><p>(Optional) number, draw with spacing relative to previous, default -1</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.withID"></a><a name="Topic225"></a><div class="CTopic TFunction LLua">
+<a name="pigui.withID"></a><a name="Topic240"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">withID</div>
- <div id="NDPrototype225" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withID(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">id,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype240" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.withID(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">id,</td></tr><tr><td class="PName first last">fun</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.withID(id, fun)</p><p>Display content with a specified ID</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">id</td><td class="CDLDefinition"><p>string, the desired ID</p></td></tr><tr><td class="CDLEntry">fun</td><td class="CDLDefinition"><p>function, function called to display content</p></td></tr></table><div class="CHeading">Returns</div><p>nil</p></div>
 </div>
 
-<a name="pigui.loadTextureFromSVG"></a><a name="Topic226"></a><div class="CTopic TFunction LLua">
+<a name="pigui.loadTextureFromSVG"></a><a name="Topic241"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">loadTextureFromSVG</div>
- <div id="NDPrototype226" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.loadTextureFromSVG(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">filename,</td></tr><tr><td class="PName first last">width,</td></tr><tr><td class="PName first last">height</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype241" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.loadTextureFromSVG(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">filename,</td></tr><tr><td class="PName first last">width,</td></tr><tr><td class="PName first last">height</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.loadTextureFromSVG(filename, width, height)</p><p>Create a texture from an SVG</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">filename</td><td class="CDLDefinition"><p>string, svg path</p></td></tr><tr><td class="CDLEntry">width</td><td class="CDLDefinition"><p>number, width of texture to create</p></td></tr><tr><td class="CDLEntry">height</td><td class="CDLDefinition"><p>number, height of texture to create</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">userdata</td><td class="CDLDefinition"><p>the texture</p></td></tr></table></div>
 </div>
 
-<a name="pigui.loadTexture"></a><a name="Topic227"></a><div class="CTopic TFunction LLua last">
+<a name="pigui.loadTexture"></a><a name="Topic242"></a><div class="CTopic TFunction LLua last">
  <div class="CTitle">loadTexture</div>
- <div id="NDPrototype227" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.loadTexture(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">filename</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype242" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">function</span> ui.loadTexture(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PName first last">filename</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>ui.loadTexture(filename)</p><p>Load a texture from file</p><div class="CHeading">Example</div><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">filename</td><td class="CDLDefinition"><p>string, texture file path</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">userdata</td><td class="CDLDefinition"><p>the texture</p></td></tr></table></div>
 </div>
 
