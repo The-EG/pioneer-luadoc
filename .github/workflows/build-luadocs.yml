@@ -13,9 +13,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        ref: gh-pages
+        ref: master
         submodules: true
-        
+        fetch-depth: 0
         
     - name: Setup git identify
       run: |
@@ -24,6 +24,7 @@ jobs:
         
     - name: Merge master into gh-pages
       run: |
+        git checkout gh-pages
         git pull --no-rebase origin master
      
     - name: Download Natural Docs 2.1
@@ -35,8 +36,7 @@ jobs:
     - name: Generate Lua comments for C++ modules
       run: |
         mkdir gen
-        /bin/bash pioneer/scripts/gen_cpp_lua.sh
-       
+        /bin/bash pioneer/scripts/gen_cpp_lua.sh       
         
     - name: Generate Lua Documentation
       run: |
@@ -45,8 +45,9 @@ jobs:
         
     - name: Commit and push changes
       run: |
+        MSG=`git log --oneline -1 --pretty=format:%B master`
         git add docs
-        git commit -m "Update Lua Documentation"
+        git commit -m "Update Lua Documentation (${MSG})"
         git push -u origin gh-pages
         
  
