@@ -8,16 +8,16 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="PropertiedObject"></a><a name="Topic451"></a><div class="CTopic TClass LLua first">
+<a name="PropertiedObject"></a><a name="Topic421"></a><div class="CTopic TClass LLua first">
  <div class="CTitle">PropertiedObject</div>
- <div class="CBody"><p>A class with named properties. Any class that inherits from <a href="../index.html#File:LuaPropertiedObject.cpp.lua:PropertiedObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,451);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >PropertiedObject</a> will have some number of attributes that are actually properties. For the Lua programmer, the distinction is that properties can be connected to, allowing functions to be called whenever the property changes.</p><p>The UI is a big user of this feature, see &lt;Widget.Bind&gt; for details.</p></div>
+ <div class="CBody"><p>A class with named properties. Any class that inherits from <a href="../index.html#File:LuaPropertiedObject.cpp.lua:PropertiedObject" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,421);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >PropertiedObject</a> will have some number of attributes that are actually properties. For the Lua programmer, the distinction is that properties can be connected to, allowing functions to be called whenever the property changes.</p><p>The UI is a big user of this feature, see &lt;Widget.Bind&gt; for details.</p></div>
 </div>
 
-<a name="PropertiedObject.Methods"></a><a name="Topic452"></a><div class="CTopic TGroup LLua">
+<a name="PropertiedObject.Methods"></a><a name="Topic422"></a><div class="CTopic TGroup LLua">
  <div class="CTitle">Methods</div>
 </div>
 
-<a name="PropertiedObject.Connect"></a><a name="Topic453"></a><div class="CTopic TFunction LLua last">
+<a name="PropertiedObject.Connect"></a><a name="Topic423"></a><div class="CTopic TFunction LLua last">
  <div class="CTitle">Connect</div>
  <div class="CBody"><p>Register a function to be called when the named property changes.</p><pre>connection = object:Connect(property, function)</pre><p>Note that some properties can be changed often, sometimes every frame or more. Do not use this mechanism for those properties; it will cause things to slow down significantly. Consider another facility (eg a UI bind) to do what you need.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">property</td><td class="CDLDefinition"><p>name of the property to connect to</p></td></tr><tr><td class="CDLEntry">function</td><td class="CDLDefinition"><p>function to call when the property changes. This function is called with two arguments: the name of the property, and the new value.</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">connection</td><td class="CDLDefinition"><p>a object representing the property connection. If you are no longer interested in receiving notifications about changes to a property, call connection:Disconnect().</p></td></tr></table><div class="CHeading">Example</div><pre>ship:Connect(&quot;fuel&quot;, function (key, value)<br />    print(string.format(&quot;player fuel %f%%&quot;, value)<br />end)</pre><div class="CHeading">Availability</div><p>November 2013</p><div class="CHeading">Status</div><p>experimental</p></div>
 </div>

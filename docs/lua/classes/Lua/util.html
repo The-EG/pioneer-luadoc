@@ -8,21 +8,21 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="Topic362"></a><div class="CTopic TInterface LLua first">
+<a name="Topic338"></a><div class="CTopic TInterface LLua first">
  <div class="CTitle">util</div>
  <div class="CBody"><p>Utility functions available in all Lua contexts.</p></div>
 </div>
 
-<a name="Functions"></a><a name="Topic363"></a><div class="CTopic TGroup LLua">
+<a name="Functions"></a><a name="Topic339"></a><div class="CTopic TGroup LLua">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="hash_random"></a><a name="Topic364"></a><div class="CTopic TFunction LLua">
+<a name="hash_random"></a><a name="Topic340"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">hash_random</div>
  <div class="CBody"><pre>r = util.hash_random(seed, m, n)</pre><p>Pick a number deterministically according to some input value.</p><pre>accent = util.hash_random(person_seed .. 'accent', #accents)</pre><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">seed</td><td class="CDLDefinition"><p>A string or a number. The output is deterministic based on this value.</p></td></tr><tr><td class="CDLEntry">m, n</td><td class="CDLDefinition"><p>optional. If called as hash_random(seed), the result is in the range 0 &lt;= x &lt; 1.&nbsp; If called as hash_random(seed, m, n), the result is an integer in the range m &lt;= x &lt;= n.</p></td></tr><tr><td class="CDLEntry">m must be less than n. (n</td><td class="CDLDefinition"><p>m) must be less than 2^32.</p></td></tr></table><div class="CHeading">Availability</div><p>alpha 24</p><div class="CHeading">Status</div><p>experimental</p><p>This function is intended to: 1- Produce a 64-bit hash of the input value (which is either a string or a double-precision float).&nbsp; 2- Take those 64 bits and use them to pick a random number (as indicated in the doc comment above).&nbsp; It's also intended to produce the same output for the same input, across any platforms Pioneer runs on, but there may be bugs.</p></div>
 </div>
 
-<a name="trim"></a><a name="Topic365"></a><div class="CTopic TFunction LLua last">
+<a name="trim"></a><a name="Topic341"></a><div class="CTopic TFunction LLua last">
  <div class="CTitle">trim</div>
  <div class="CBody"><pre>s = util.trim(str)</pre><p>Trim leading and/or trailing whitespace from a string.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">str</td><td class="CDLDefinition"><p>A string.</p></td></tr></table><div class="CHeading">Availability</div><p>November 2013</p><div class="CHeading">Status</div><p>experimental</p></div>
 </div>

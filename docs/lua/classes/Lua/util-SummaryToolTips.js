@@ -1,1 +1,1 @@
-﻿NDSummary.OnToolTipsLoaded("LuaClass:util",{362:"<div class=\"NDToolTip TInterface LLua\"><div class=\"TTSummary\">Utility functions available in all Lua contexts.</div></div>"});
+﻿NDSummary.OnToolTipsLoaded("LuaClass:util",{338:"<div class=\"NDToolTip TInterface LLua\"><div class=\"TTSummary\">Utility functions available in all Lua contexts.</div></div>"});

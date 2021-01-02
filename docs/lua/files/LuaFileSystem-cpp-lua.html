@@ -8,21 +8,21 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="FileSystem"></a><a name="Topic292"></a><div class="CTopic TInterface LLua first">
+<a name="FileSystem"></a><a name="Topic293"></a><div class="CTopic TInterface LLua first">
  <div class="CTitle">FileSystem</div>
  <div class="CBody"><p>A global table that provides access to the filesystem.</p><p>This interface is protected. It can only be used by scripts in Pioneer's data directory. Mods and scripts in the user directory that try to use it will get a Lua error.</p></div>
 </div>
 
-<a name="FileSystem.Functions"></a><a name="Topic293"></a><div class="CTopic TGroup LLua">
+<a name="FileSystem.Functions"></a><a name="Topic294"></a><div class="CTopic TGroup LLua">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="FileSystem.ReadDirectory"></a><a name="Topic294"></a><div class="CTopic TFunction LLua">
+<a name="FileSystem.ReadDirectory"></a><a name="Topic295"></a><div class="CTopic TFunction LLua">
  <div class="CTitle">ReadDirectory</div>
  <div class="CBody"><pre>local files, dirs = FileSystem.ReadDirectory(root, path)</pre><p>Return a list of files and dirs in the specified directory.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">root</td><td class="CDLDefinition"><p>a &lt;FileSystemRoot&gt; constant for the root of the dir to read from</p></td></tr><tr><td class="CDLEntry">path</td><td class="CDLDefinition"><p>optional. a directory under the root</p></td></tr></table><div class="CHeading">Returns</div><table class="CDefinitionList"><tr><td class="CDLEntry">files</td><td class="CDLDefinition"><p>a list of files as full paths from the root</p></td></tr><tr><td class="CDLEntry">dirs</td><td class="CDLDefinition"><p>a list of dirs as full paths from the root</p></td></tr></table><div class="CHeading">Availability</div><p>alpha 26</p><div class="CHeading">Status</div><p>experimental</p></div>
 </div>
 
-<a name="FileSystem.JoinPath"></a><a name="Topic295"></a><div class="CTopic TFunction LLua last">
+<a name="FileSystem.JoinPath"></a><a name="Topic296"></a><div class="CTopic TFunction LLua last">
  <div class="CTitle">JoinPath</div>
  <div class="CBody"><pre>local path = FileSystem.JoinPath(...)</pre><p>Join the passed arguments into a path, correctly handling separators and .&nbsp; and .. special dirs.</p><div class="CHeading">Availability</div><p>alpha 26</p><div class="CHeading">Status</div><p>experimental</p></div>
 </div>
