@@ -8,16 +8,16 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="ServerAgent"></a><a name="Topic343"></a><div class="CTopic TInterface LLua first">
+<a name="ServerAgent"></a><a name="Topic363"></a><div class="CTopic TInterface LLua first">
  <div class="CTitle">ServerAgent</div>
  <div class="CBody"><p>An object that provides access to an RPC server. This allows your scripts to call remote functions and send and recieve data from a remote server.</p><p>This page documents the API only. There are other things that need to be done to enable and use this interface. See <a href="http://pioneerwiki.com/wiki/ServerAgent" target="_top">http://&#8203;pioneerwiki&#8203;.com&#8203;/wiki&#8203;/ServerAgent</a> for more information.</p></div>
 </div>
 
-<a name="ServerAgent.Functions"></a><a name="Topic344"></a><div class="CTopic TGroup LLua">
+<a name="ServerAgent.Functions"></a><a name="Topic364"></a><div class="CTopic TGroup LLua">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="ServerAgent.Call"></a><a name="Topic345"></a><div class="CTopic TFunction LLua last">
+<a name="ServerAgent.Call"></a><a name="Topic365"></a><div class="CTopic TFunction LLua last">
  <div class="CTitle">Call</div>
  <div class="CBody"><p>Call a remote function, optionally sending or receiving data.</p><pre>ServerAgent.Call(method, data, onSuccess, onFailure)</pre><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">method</td><td class="CDLDefinition"><p>name of the remote function/method to call.</p></td></tr><tr><td class="CDLEntry">data</td><td class="CDLDefinition"><p>optional. an arbitrary data item to be sent to the server along with the call.</p></td></tr><tr><td class="CDLEntry">onSuccess</td><td class="CDLDefinition"><p>optional. a function to call when the remote call completes successfully. If the call returned data, it will be passed as the first argument to the function.</p></td></tr><tr><td class="CDLEntry">onFailure</td><td class="CDLDefinition"><p>optional. a function to call if the remote call fails for any reason. The text of the error will be passed as the first argument to the function.</p></td></tr></table><div class="CHeading">Availability</div><p>alpha 29</p><div class="CHeading">Status</div><p>experimental</p></div>
 </div>
